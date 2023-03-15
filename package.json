@@ -1,0 +1,14 @@
+{
+  "name": "demo_automation",
+  "version": "1.0.0",
+  "description": "Project Demo of Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Raul J. Cunha",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.8.0"
+  }
+}
